@@ -1,4 +1,4 @@
-# Formulario inicio-sesion_1
+# Formulario inicio-sesion
 > **Actividades-iniciales-JAVA**  
 
 Proyecto desarrollo modulo de inicio de sesion en JAVA, para la aplicacion de conocimientos estudiados 
