@@ -4,4 +4,4 @@
 >
 > 
 > **Actividades-iniciales-JAVA**  
-Proyecto desarrollo modulo de inicio de sesion pagian de venta de productos skechers en JAVA, para la aplicacion de conocimientos estudiados 
+Proyecto desarrollo modulo de inicio de sesion paginn de venta de productos skechers en JAVA, para la aplicacion de conocimientos estudiados 
